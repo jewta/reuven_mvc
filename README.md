@@ -1,2 +1,2 @@
-# reuven_mvc
+# Reuven MVC
 My MVC framework on PHP
